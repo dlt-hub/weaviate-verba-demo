@@ -1,6 +1,6 @@
-# Import Zendesk Support Tickets data into Verba
+# Import Zendesk Support Tickets' Data into Verba
 
-This is a demo project to show how to import data from Zendesk Support API into Verba using the [dlt](https://github.com/dlt-hub/dlt) Python library. With this data pipeline, you can build a Retrieval-Augmented Generation (RAG) chatbot that can answer questions about your Zendesk Support tickets.
+This is a demo project to show how to import data from the Zendesk Support API into the [Verba](https://github.com/weaviate/Verba) chatbot using the [dlt](https://github.com/dlt-hub/dlt) Python library. With this data pipeline, you can build a Retrieval-Augmented Generation (RAG) chatbot that can answer questions about your Zendesk Support tickets.
 
 For an extensive step-by-step guide on using this repository, see [Talk to your Zendesk tickets with Weaviate’s Verba and dlt: A Step by Step Guide](https://dlthub.com/docs/blog/verba-dlt-zendesk) blog post.
 
