@@ -32,5 +32,6 @@ The diagram above illustrates the process:
 ## Learn more
 
 - [Importing Ticket Data from Zendesk API to Weaviate](https://dlthub.com/docs/walkthroughs/zendesk-weaviate) walkthrough is a lower-level guide that explains how to use the Zendesk dlt source with Weaviate.
+- [dlt & Weaviate Jupiter Notebook Demos](https://github.com/dlt-hub/dlt_demos#weaviate-demos) has more examples of using PDF or SQL sources with Weaviate.
 - [Weaviate dlt destination](https://dlthub.com/docs/dlt-ecosystem/destinations/weaviate) is a detailed documentation of features and configuration options of the dlt destination.
 - [dlt documentation](https://dlthub.com/docs/) is a comprehensive manual for the dlt library.
